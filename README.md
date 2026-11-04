@@ -62,7 +62,7 @@ Always learning, trying new things, and working on whatever catches my interest.
 <br/><br/>
 
 <img src="https://img.shields.io/badge/FiveM-Game_Development-ECA156?style=flat-square&labelColor=101016"/>
-<img src="https://img.shields.io/badge/QBCore-Framework-8335C3?style=flat-square&labelColor=101016"/>
+<img src="https://img.shields.io/badge/QBCore%20%2F%20Qbox%20%2F%20ESX-Framework-8335C3?style=flat-square&labelColor=101016"/>
 <img src="https://img.shields.io/badge/MariaDB-Database-ECA156?style=flat-square&labelColor=101016"/>
 <img src="https://img.shields.io/badge/AI-Assisted_Development-8335C3?style=flat-square&labelColor=101016"/>
 
